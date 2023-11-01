@@ -8,7 +8,6 @@
 <h2 align="center">
   &bull; <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
   &bull; <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
-</h2>
 
 <p align="center">
   <a href="https://github.com/ItayYogev/Port-Scanner">
@@ -19,6 +18,7 @@
     <img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation">
   </a>
 </p>
+</h2>
 
 - 📫 How to reach me **iyogev407@gmail.com**
 
