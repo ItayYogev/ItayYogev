@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayyogev&label=Profile%20views&color=0e75b6&style=flat" alt="itayyogev" /> </p>
 
 - 👨‍💻 My recent projects are:
-	[Port Scanner](https://github.com/ItayYogev/Port-Scanner)
-	[VirusTotal Automation](https://github.com/ItayYogev/VirusTotal-Automation)
+	[Port Scanner](https://github.com/ItayYogev/Port-Scanner) & [VirusTotal Automation](https://github.com/ItayYogev/VirusTotal-Automation)
 
 - 📫 How to reach me **iyogev407@gmail.com**
 
