@@ -6,9 +6,9 @@
 
 <h1 align="center">My Projects</h1>
 
-<p align="center">
+<h2 align="center">
   <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a> & <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
-</p>
+</h2>
 
 - 📫 How to reach me **iyogev407@gmail.com**
 
