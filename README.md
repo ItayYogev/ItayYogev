@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/M3Lx_oE_n04/maxresdefault.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayyogev&label=Profile%20views&color=0e75b6&style=flat" alt="itayyogev" /> </p>
+<h3 align="left">[Port Scanner](https://github.com/ItayYogev/Port-Scanner)</h3>
 
 - 👨‍💻 Recent projects:
 	[Port Scanner](https://github.com/ItayYogev/Port-Scanner) & [VirusTotal Automation](https://github.com/ItayYogev/VirusTotal-Automation)
