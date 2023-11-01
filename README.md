@@ -6,10 +6,10 @@
 <h1 align="center">My Projects:</h1>
 
 <h2 align="center">
-  &bull; <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
+  <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
-  &bull; <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
+  <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
 
 <p align="center">
   <a href="https://github.com/ItayYogev/Port-Scanner">
