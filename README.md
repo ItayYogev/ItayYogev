@@ -6,7 +6,7 @@
 
 <h1 align="center">My Projects</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a> & <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
 </p>
 
