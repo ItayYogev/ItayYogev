@@ -8,11 +8,14 @@
 <h2 align="center">
   &bull; <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
   &bull; <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
+</h2>
 
 <p align="center">
   <a href="https://github.com/ItayYogev/Port-Scanner">
     <img src="https://i.ytimg.com/vi/8sPoMcsnlSg/maxresdefault.jpg" width="200" height="200" alt="Port Scanner">
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
 
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">
     <img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation">
