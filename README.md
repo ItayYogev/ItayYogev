@@ -3,11 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/M3Lx_oE_n04/maxresdefault.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayyogev&label=Profile%20views&color=0e75b6&style=flat" alt="itayyogev" /> </p>
-<h2 align="left">- 👨‍💻 My Projects:</h2>
-<h2 align="left">- 👨‍💻 Port Scanner:</h2>[Port Scanner](https://github.com/ItayYogev/Port-Scanner)
 
-- 
-	[Port Scanner](https://github.com/ItayYogev/Port-Scanner) & [VirusTotal Automation](https://github.com/ItayYogev/VirusTotal-Automation)
+<h1 align="center">My Projects</h1>
+
+<p align="center">
+  <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a> & <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
+</p>
 
 - 📫 How to reach me **iyogev407@gmail.com**
 
