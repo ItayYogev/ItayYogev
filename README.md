@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayyogev&label=Profile%20views&color=0e75b6&style=flat" alt="itayyogev" /> </p>
 
+- 👨‍💻 My recent projects are: [Port Scanner](https://github.com/ItayYogev/Port-Scanner)
+
 - 📫 How to reach me **iyogev407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
