@@ -2,8 +2,6 @@
 <h3 align="center">An avid enthusiast passionate about cyber security from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/M3Lx_oE_n04/maxresdefault.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itayyogev&label=Profile%20views&color=0e75b6&style=flat" alt="itayyogev" /> </p>
-
 <h1 align="center">My Projects:</h1>
 
 <h2 align="center">
