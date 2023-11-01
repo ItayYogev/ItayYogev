@@ -8,6 +8,7 @@
 
 <h2 align="center">
   &bull; <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
+  <br>
   &bull; <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
 </h2>
 
