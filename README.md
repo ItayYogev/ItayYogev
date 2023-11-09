@@ -20,6 +20,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">
     <img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation">
+     <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">
+    <img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=679&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
+  </a>
   </a>
 </p>
 </h2>
