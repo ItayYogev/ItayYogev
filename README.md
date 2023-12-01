@@ -7,7 +7,7 @@
 
 <h2 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
-  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse Engineering</a>
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
