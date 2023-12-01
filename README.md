@@ -9,28 +9,38 @@
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse Engineering</a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
-  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse Engineering</a>
+</h2>
 
 <p align="center">
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">
+    <img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=679&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
+  <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">
+    <img src="https://camo.githubusercontent.com/e7cf0deaa00103929d6893bd22782048e128afdea65cd427f3679470f406405c/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f48324a51474775494b35382f302e6a7067" width="200" height="200" alt="Recon Script">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   <a href="https://github.com/ItayYogev/Port-Scanner">
     <img src="https://i.ytimg.com/vi/8sPoMcsnlSg/maxresdefault.jpg" width="200" height="200" alt="Port Scanner">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">
     <img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation">
-    &nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between the images -->
-     <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">
-    <img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=679&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
-  </a>
   </a>
 </p>
-</h2>
 
 - 📫 How to reach me **iyogev407@gmail.com**
 
