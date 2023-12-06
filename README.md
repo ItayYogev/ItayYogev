@@ -2,6 +2,7 @@
 <h3 align="center">An avid enthusiast passionate about cyber security from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayyogev&label=Profile%20views&color=0e75b6&style=flat" alt="itayyogev" /> </p>
+<script src="https://tryhackme.com/badge/1397176"></script>
 
 <h1 align="center">My Projects:</h1>
 
