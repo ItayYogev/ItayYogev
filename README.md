@@ -5,8 +5,7 @@
 
 <h1 align="center">My Projects:</h1>
 
-<h2 align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
+<h2 align="center" style="display: flex; justify-content: space-between; gap: 10px;"> <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
   <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
   <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
@@ -36,4 +35,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg```
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp```
