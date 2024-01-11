@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Itay Yogev's Portfolio</title>
+  <style>
+    h2 {
+      white-space: nowrap; /* Prevent line breaks */
+    }
+
+    h2 a {
+      display: inline-block; /* Make the links inline */
+      margin: 0 10px; /* Add some space between the links */
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Itay Yogev</h1>
 <h3 align="center">An avid enthusiast passionate about cyber security from Israel</h3>
 
@@ -48,3 +67,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itayyogev&show_icons=true&locale=en" alt="itayyogev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itayyogev&" alt="itayyogev" /></p>
+
+</body>
+</html>
