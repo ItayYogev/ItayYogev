@@ -6,7 +6,7 @@
 <h1 align="center">My Projects:</h1>
 
 <h2 align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry RE</a>
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
   <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
   <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
