@@ -7,15 +7,18 @@
 
 <h1 align="center">My Projects:</h1>
 
-<h2 align="center" style="display: flex; justify-content: space-between; gap: 100px;">  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
- <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
- <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
- <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
+<h2 align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
+  <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
+</h2>
+<h2 align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
+  <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
 </h2>
 
 <p align="center" style="margin-bottom: 30px;">
  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">
-  <img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=679&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
+  <img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=200&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
  </a>
  <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">
   <img src="https://i.ytimg.com/vi/H2JQGGuIK58/hqdefault.jpg" width="200" height="200" alt="Recon Script">
@@ -43,4 +46,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
+  <img src="https://raw.githubusercontent.com/devicons/
