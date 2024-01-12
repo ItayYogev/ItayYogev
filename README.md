@@ -7,7 +7,7 @@
 
 <h1 align="center">My Projects:</h1>
 
-<h2 align="center" style="display: flex; justify-content: space-between; gap: 80px; margin-bottom: 20px;"> 
+<h2 align="center" style="display: flex; justify-content: space-between; gap: 80px; margin-bottom: 40px;"> 
   <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
   <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
   <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
