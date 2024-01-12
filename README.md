@@ -7,33 +7,20 @@
 
 <h1 align="center">My Projects:</h1>
 
-<h2 align="center" style="display: flex; justify-content: space-between; gap: 50px;">
-<a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
-<img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=200&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering" />
-
-<a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
-<img src="https://i.ytimg.com/vi/H2JQGGuIK58/hqdefault.jpg" width="200" height="200" alt="Recon Script" />
-
-<a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
-<img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation" />
-
-<a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
-<img src="https://i.ytimg.com/vi/8sPoMcsnlSg/maxresdefault.jpg" width="200" height="200" alt="Port Scanner" />
-</h2>
+<p align="center" style="margin-bottom: 30px;">
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
+  <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
+  <br>
+  <img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=200&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
+  <img src="https://i.ytimg.com/vi/H2JQGGuIK58/hqdefault.jpg" width="200" height="200" alt="Recon Script">
+</p>
 
 <p align="center" style="margin-bottom: 30px;">
-<a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">
-<img src="https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=200&name=WannaCry.jpg" width="200" height="200" alt="Wannacry Reverse Engineering">
-</a>
-<a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">
-<img src="https://i.ytimg.com/vi/H2JQGGuIK58/hqdefault.jpg" width="200" height="200" alt="Recon Script">
-</a>
-<a href="https://github.com/ItayYogev/VirusTotal-Automation">
-<img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation">
-</a>
-<a href="https://github.com/ItayYogev/Port-Scanner">
-<img src="https://i.ytimg.com/vi/8sPoMcsnlSg/maxresdefault.jpg" width="200" height="200" alt="Port Scanner">
-</a>
+  <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
+  <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
+  <br>
+  <img src="https://i.ytimg.com/vi/jOJwiqcLIEc/maxresdefault.jpg" width="200" height="200" alt="VirusTotal Automation">
+  <img src="https://i.ytimg.com/vi/8sPoMcsnlSg/maxresdefault.jpg" width="200" height="200" alt="Port Scanner">
 </p>
 
 <p align="left" style="margin-bottom: 15px;">- How to reach me **iyogev407@gmail.com**</p>
