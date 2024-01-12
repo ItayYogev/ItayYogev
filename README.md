@@ -8,12 +8,10 @@
 <h1 align="center">My Projects:</h1>
 
 <h2 align="center" style="display: flex; justify-content: space-between; gap: 50px;">
-<a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
-<a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
-<a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
-<a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
-<a href="https://github.com/YourUsername/Your-Project1">Your Project 1</a>
-<a href="https://github.com/YourUsername/Your-Project2">Your Project 2</a>
+  <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering" style="margin-bottom: 10px;">Wannacry Reverse</a>
+  <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-" style="margin-bottom: 10px;">Recon Script</a>
+  <a href="https://github.com/ItayYogev/VirusTotal-Automation" style="margin-bottom: 10px;">VirusTotal Auto</a>
+  <a href="https://github.com/ItayYogev/Port-Scanner" style="margin-bottom: 10px;">Port Scanner</a>
 </h2>
 
 <p align="center" style="margin-bottom: 30px;">
