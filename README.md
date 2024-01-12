@@ -7,12 +7,16 @@
 
 <h1 align="center">My Projects:</h1>
 
-<h2 align="center" style="display: flex; justify-content: space-between; gap: 50px;"> 
+<h2 style="text-align: center;">
   <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">Wannacry Reverse</a>
+  <span style="margin: 0 20px;"></span>
   <a href="https://github.com/ItayYogev/Reconnaissance-Script-Bash-">Recon Script</a>
-  <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Automation</a>
+  <span style="margin: 0 20px;"></span>
+  <a href="https://github.com/ItayYogev/VirusTotal-Automation">VirusTotal Auto</a>
+  <span style="margin: 0 20px;"></span>
   <a href="https://github.com/ItayYogev/Port-Scanner">Port Scanner</a>
 </h2>
+
 
 <p align="center" style="margin-bottom: 30px;">
   <a href="https://github.com/ItayYogev/Wannacry-Reverse-Engineering">
